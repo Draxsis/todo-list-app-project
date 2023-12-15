@@ -1,14 +1,17 @@
-# Todo list Project
+# Todo List Project
+
 
 ## Overview
-lorem 
+The BookStore project is a comprehensive web-based bookstore management system designed to streamline book management. It offers a seamless user experience for browsing, searching, and organizing books, available in both table and card view formats. The system facilitates essential CRUD (Create, Read, Update, Delete) operations on the book database, simplifying book collection organization.
 
 ## Online Demo
 Explore the live demo of this application at [live Demo]()
 Feel free to interact with the features and experience the application firsthand!
 
 ## Key Features
-lorem
+- **Search Functionality:** Easily search for books within the collection.
+- **CRUD Operations:** Perform essential Create, Read, Update, and Delete actions for books.
+- **Multiple Viewing Options:** Choose between table and card view formats for an organized display.
 
 ## Technologies Used
 - [Node.js](https://nodejs.org/)
@@ -44,7 +47,7 @@ To run this project locally, follow these steps:
    
 
 ## Video
-lorem
+https://github.com/Draxsis/bookstore-project/assets/93474063/2d87d5b4-c307-4732-b42c-8e76e00fb5d1
 
 ## License
 This project is licensed under the [MIT license](https://opensource.org/license/mit/). See the LICENSE.md file for details.
@@ -58,7 +61,24 @@ This project is licensed under the [MIT license](https://opensource.org/license/
   [![Express.js](https://img.shields.io/badge/Express.js-gray?style=flat-square&logo=express)](https://expressjs.com/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-gray?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
   [![React](https://img.shields.io/badge/React-gray?style=flat-square&logo=react)](https://www.React.dev/)
-  
+
+## contributors
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/Draxsis"><img src="https://github.com/Draxsis.png" width="100px;" alt="Mostafa.K"><br /><sub><b>Mostafa Koolabadi</b></sub></a>
+        <br />
+      </td>
+            <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/Mohammad-M-rahimi"><img src="https://github.com/Mohammad-M-rahimi.png" width="100px;" alt="Mohammad Rahimi"><br /><sub><b>Mohammad Rahimi</b></sub></a>
+        <br />
+      </td>
+      </td>     
+    </tr>
+  </tbody>
+</table>
+
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
